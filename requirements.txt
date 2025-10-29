@@ -1,0 +1,11 @@
+# Core document parsing libraries
+PyPDF2>=3.0.1         # For reading PDF files
+python-docx>=1.1.0    # For reading Word (.docx) files
+openpyxl>=3.1.2       # For reading Excel (.xlsx) files
+
+# Optional: for structured logging or debugging
+loguru>=0.7.2
+
+# Optional: for type checking and linting
+mypy>=1.8.0
+flake8>=6.1.0
